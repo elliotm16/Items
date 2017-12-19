@@ -1,0 +1,9 @@
+C:\Users\00morgane.NEWPORTEDU\AppData\Local\Temporary Projects\Items\bin\Debug\Items.exe
+C:\Users\00morgane.NEWPORTEDU\AppData\Local\Temporary Projects\Items\bin\Debug\Items.pdb
+C:\Users\00morgane.NEWPORTEDU\AppData\Local\Temporary Projects\Items\bin\Debug\Items.xml
+C:\Users\00morgane.NEWPORTEDU\AppData\Local\Temporary Projects\Items\obj\x86\Debug\Items.Form1.resources
+C:\Users\00morgane.NEWPORTEDU\AppData\Local\Temporary Projects\Items\obj\x86\Debug\Items.Resources.resources
+C:\Users\00morgane.NEWPORTEDU\AppData\Local\Temporary Projects\Items\obj\x86\Debug\Items.vbproj.GenerateResource.Cache
+C:\Users\00morgane.NEWPORTEDU\AppData\Local\Temporary Projects\Items\obj\x86\Debug\Items.exe
+C:\Users\00morgane.NEWPORTEDU\AppData\Local\Temporary Projects\Items\obj\x86\Debug\Items.xml
+C:\Users\00morgane.NEWPORTEDU\AppData\Local\Temporary Projects\Items\obj\x86\Debug\Items.pdb
